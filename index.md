@@ -21,5 +21,6 @@ De workshop wordt drie keer herhaald. Elke workshop bestaat uit verschillende on
    * [Opdracht: Welke informatie vinden we via Scholia](scholia.md#opdracht-welke-informatie-vinden-we-via-scholia)
 * 15 minuten: [Literatuurbronnen](opdracht1.md)
    * [Bronnen in Wikidata](opdracht1.md#bronnen-in-wikidata)
-
+   * [Nieuwe bronnen toevoegen aan Wikidata](opdracht1.md#nieuwe-bronnen-toevoegen-aan-wikidata)
+   * [Bronvermeldingen toevoegen aan feiten](opdracht1.md#bronvermeldingen-toevoegen-aan-feiten)
 
