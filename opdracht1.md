@@ -64,7 +64,7 @@ Door die vervolgens uit te voeren, krijg je een nieuw item in Wikidata voor het 
 
 ![Nieuwe item in Wikidata voor het net toegevoegde artikel](Screenshot_20180324_000925.png)
 
-# Bronvermeldingen toevoegen aan feiten
+## Bronvermeldingen toevoegen aan feiten
 
 Als je bron dan in Wikidata staat, kan je die gebruiken om een referentie toe te voegen.
 Zoek hiervoor het feit op waarvoor je een referentie wil toevoegen, en klik dan de
