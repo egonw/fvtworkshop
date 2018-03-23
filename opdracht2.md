@@ -227,11 +227,11 @@ De bijbehorende zoekopdracht is:
 
 ```sparql
 #defaultView:Map
-SELECT ?tree ?treeLabel ?location ?image WHERE {
-  { ?tree wdt:P279+|wdt:P31+/wdt:P171 wd:Q12024 }
+SELECT ?boom ?boomLabel ?locatie ?foto WHERE {
+  { ?boom wdt:P279+|wdt:P31+/wdt:P171 wd:Q12024 }
   UNION
-  { ?tree wdt:P279+|wdt:P31+ wd:Q12024 }
-  ?tree wdt:P18 ?image ; wdt:P625 ?location .
+  { ?boom wdt:P279+|wdt:P31+ wd:Q12024 }
+  ?boom wdt:P18 ?foto ; wdt:P625 ?locatie .
   SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
 }
 ```
