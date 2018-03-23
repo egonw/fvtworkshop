@@ -11,3 +11,4 @@ Auteurs:
 
 * Egon Willighagen
 * Ruud Steltenpool
+* Lars Willighagen
