@@ -1,12 +1,29 @@
-Literatuur over een onderwerp
-=============================
+Literatuurbronnen
+=================
+
+Uiteraard willen we weten waar onze informatie vandaan komt. Of anders gezegd, waar we meer informatie kunnen vinden.
+Hier zijn bronnenlijsten voor, en op (Engelstalige) Wikipedia zien die er zo uit:
+
+![Literatuurbronnen van een pagina van de Engelstalige Wikipedia](Screenshot_20180323_233620.png)
+
+Informatie in Wikidata heeft ook literatuurbronnen. Maar anders dan op Wikipedia, zijn de literatuurbronnen
+in Wikidata direct gekoppeld aan het genoemde feit. Zoals we hier voor fysisch-chemische eigenshappen
+van [azijnzuur](https://tools.wmflabs.org/scholia/topic/Q47512) zien:
+
+![Fysisch-chemische eigenschappen van azijnzuur met literatuurbronnen](Screenshot_20180323_234622.png)
 
 In deze opdracht gaan we aan de slag met Open Data. Meer specifiek, we gaan aan de slag
 met de annotatie van Open Data met literatuur die het experiment of studie beschrijft die
 een feit ondersteund.
 
-Nieuwe artikelen toevoegen aan Wikidata
------------------------------------
+# Bronnen in Wikidata
+
+Als we naar de Wikidata pagina van azijnzuur zelf kijken, zien we ook daar de bronvermelding
+voor eigenschappen, zoals hier het smeltpunt:
+
+![Bronvermeldingen van smeltpunten van azijnzuur](Screenshot_20180323_234947.png)
+
+# Nieuwe artikelen toevoegen aan Wikidata
 
 Als je nou literatuur aan Wikidata wil toevoegen, omdat die een auteur heeft van jouw instituut (vorige
 opdracht), of omdat je die als bronvermelding wil gebruiken voor een feit in Wikidata, dan kan je die
