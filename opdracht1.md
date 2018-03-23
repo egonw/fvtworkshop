@@ -16,14 +16,32 @@ In deze opdracht gaan we aan de slag met Open Data. Meer specifiek, we gaan aan 
 met de annotatie van Open Data met literatuur die het experiment of studie beschrijft die
 een feit ondersteund.
 
-# Bronnen in Wikidata
+## Bronnen in Wikidata
 
 Als we naar de Wikidata pagina van azijnzuur zelf kijken, zien we ook daar de bronvermelding
 voor eigenschappen, zoals hier het smeltpunt:
 
 ![Bronvermeldingen van smeltpunten van azijnzuur](Screenshot_20180323_234947.png)
 
-# Nieuwe artikelen toevoegen aan Wikidata
+Wie zien hierin twee soorten bronnen:
+
+1. de eerste is een website ("reference URL")
+2. de tweede verwijzen naar een bron dat zelf een item in Wikidata is ("stated in")
+
+Het onderwerp van die tweede verwijzing kan dus vanalles zijn, maar is meestel een
+wetenschappelijk artikel, een boek (zoals de twee CRC boeken voor de smeltpunten),
+of een data set of database.
+
+## Nieuwe bronnen toevoegen aan Wikidata
+
+Omdat artikelen en boeken dus zelf in Wikidata moeten staan, zal je die eerst als bron
+moeten toevoegen. Dat is in Wikipedia overigens ook zo, maar daar werkt dat anders.
+
+Boeken moeten met de hand toegevoegd worden, maar wetenschappelijke artikelen kunnen
+gelukkig automatisch toegevoegd worden. Nou ja, als je de "digital object identifier" (DOI)
+van het artikel hebt. Hoe je die dan toevoegt staat in het volgende stukje.
+
+### Nieuwe wetenschappelijke artikelen
 
 Als je nou literatuur aan Wikidata wil toevoegen, omdat die een auteur heeft van jouw instituut (vorige
 opdracht), of omdat je die als bronvermelding wil gebruiken voor een feit in Wikidata, dan kan je die
@@ -46,18 +64,15 @@ Door die vervolgens uit te voeren, krijg je een nieuw item in Wikidata voor het 
 
 IMAGE_TBD
 
-**Stap 2**: informatie over de auteur
+# Bronvermeldingen toevoegen
 
-TBD
+Als je bron dan in Wikidata staat, kan je die gebruiken om een referentie toe te voegen.
+Zoek hiervoor het feit op waarvoor je een referentie wil toevoegen, en klik dan de
+"add reference" link, zoals hier terug te vinden is:
 
-Bronvermeldingen
-------------------
+![Bronvermeldingen van smeltpunten van azijnzuur](Screenshot_20180323_234947.png)
 
-Het tweede stuk is het delen van kennis. In tijden dat feiten belangrijker zijn dan ooit, is het zaak te weten
-waar die feit vandaan komt: bronvermeldingen. Wikidata heeft hier een rijk mechanisme voor, en elke
-"statement" kan onderbouwd worden met een of meer bronvermeldingen. En voor, bijvoorbeeld, fysisch-chemische
-eigenschappen kunnen er ook gewoon meerdere metingen weergegeven worden:
+Schroom niet om dit gewoon te proberen, want je kan je fout altijd herstellen.
 
 
 
-....
