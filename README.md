@@ -7,3 +7,7 @@ Lees het workshopmateriaal online op https://egonw.github.io/fvtworkshop/
 
 Dit materiaal is beschikbaar onder de [CC-BY-SA 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/legalcode) licentie.
 
+Auteurs:
+
+* Egon Willighagen
+* Ruud Steltenpool
