@@ -66,6 +66,33 @@ WHERE
 }
 ```
 
+Alle soorten haaien
+-------------------
+
+Hierboven zagen we het gebruik van *is een* (P31) om alle katten te vinden, maar als we
+alle soorten haaien willen vinden moet een ander *gezegde* (relatie) vinden. Namelijk,
+we moeten *moedertaxon* (P171) gebruiken, want dat is hoe soorten beschreven worden.
+
+Dus de basis is alle soorten die als moedertaxon haai (Q7372) hebben (het sterretje
+betekent een-of-meer, zodat die moedertaxon relatie meer dan 1 keer kan voorkomen):
+
+```sparql
+?soort wdt:P171* wd:Q7372
+```
+
+We willen ook plaatjes en fotos van die haaien (P18), met 1 voorbeeld per soort
+(door de combinatie van `SAMPLE` en `GROUP BY`), zodat de hele zoekopdracht dan is:
+
+```sparql
+SELECT ?haai ?haaiLabel (SAMPLE(?foto) AS ?foto) WHERE {
+  ?haai wdt:P171* wd:Q7372 ;
+         wdt:P18 ?foto .
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+} GROUP BY ?haai ?haaiLabel
+```
+
+[Probeer het maar](http://tinyurl.com/y8phlvzv)!
+
 Karakters uit Harry Potter boeken
 ---------------------------------
 
