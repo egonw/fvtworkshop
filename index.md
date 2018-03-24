@@ -12,6 +12,7 @@ De workshop wordt drie keer herhaald. Elke workshop bestaat uit verschillende on
 * 10 minuten: Wat is Wikidata (presentatie)
 * 20 minuten: [Zoeken in Wikidata](opdracht2.md)
    * [Een eenvoudige zoekopdracht: Katten](opdracht2.md#een-eenvoudige-zoekopdracht-katten)
+   * [Alle soorten haaien](opdracht2.md#alle-soorten-haaien)
    * [Karakters uit Harry Potter boeken](opdracht2.md#karakters-uit-harry-potter-boeken)
    * [Meer visualisaties: Van Gogh](opdracht2.md#meer-visualisaties-van-gogh)
    * [Boeken van voor 1900 door auteurs die in Nederland geboren zijn](opdracht2.md#boeken-van-voor-1900-door-auteurs-die-in-nederland-geboren-zijn)
