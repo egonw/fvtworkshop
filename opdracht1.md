@@ -72,7 +72,7 @@ Zoek hiervoor het feit op waarvoor je een referentie wil toevoegen, en klik dan 
 
 ![Bronvermeldingen van smeltpunten van azijnzuur](Screenshot_20180323_234947.png)
 
-Schroom niet om dit gewoon te proberen, want je kan je fout altijd herstellen.
+Schroom niet om dit gewoon te proberen, want je kan je fout altijd herstellen. Je kan ook de [sandbox](https://www.wikidata.org/wiki/Q4115189) gebruiken. Dit is een item specifiek bedoeld om dingen op uit te proberen.
 
 
 
