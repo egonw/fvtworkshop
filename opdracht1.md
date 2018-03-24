@@ -7,7 +7,7 @@ Hier zijn bronnenlijsten voor, en op (Engelstalige) Wikipedia zien die er zo uit
 ![Literatuurbronnen van een pagina van de Engelstalige Wikipedia](Screenshot_20180323_233620.png)
 
 Informatie in Wikidata heeft ook literatuurbronnen. Maar anders dan op Wikipedia, zijn de literatuurbronnen
-in Wikidata direct gekoppeld aan het genoemde feit. Zoals we hier voor fysisch-chemische eigenshappen
+in Wikidata direct gekoppeld aan het genoemde feit. Zoals we hier voor fysisch-chemische eigenschappen
 van [azijnzuur](https://tools.wmflabs.org/scholia/topic/Q47512) zien:
 
 ![Fysisch-chemische eigenschappen van azijnzuur met literatuurbronnen](Screenshot_20180323_234622.png)
