@@ -7,7 +7,7 @@ die onderdeel was van het [Festival van Talent](https://festivalvantalent.nl/) o
 Programma
 ---------
 
-De workshop wordt drie keer herhaald. Elke workshop bestaat uit verschillende onderdelen:
+De workshop werd drie keer herhaald. Elke workshop bestond uit verschillende onderdelen:
 
 * 10 minuten: Wat is Wikidata ([presentatie](https://speakerdeck.com/egonw/medicijnen-soorten-schrijvers-en-schilderijen))
 * 20 minuten: [Zoeken in Wikidata](opdracht2.md)
