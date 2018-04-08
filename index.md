@@ -9,7 +9,7 @@ Programma
 
 De workshop wordt drie keer herhaald. Elke workshop bestaat uit verschillende onderdelen:
 
-* 10 minuten: Wat is Wikidata (presentatie)
+* 10 minuten: Wat is Wikidata ([presentatie](https://speakerdeck.com/egonw/medicijnen-soorten-schrijvers-en-schilderijen))
 * 20 minuten: [Zoeken in Wikidata](opdracht2.md)
    * [Een eenvoudige zoekopdracht: Katten](opdracht2.md#een-eenvoudige-zoekopdracht-katten)
    * [Alle soorten haaien](opdracht2.md#alle-soorten-haaien)
