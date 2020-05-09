@@ -16,7 +16,7 @@ De workshop werd drie keer herhaald. Elke workshop bestond uit verschillende ond
    * [Karakters uit Harry Potter boeken](opdracht2.md#karakters-uit-harry-potter-boeken)
    * [Meer visualisaties: Van Gogh](opdracht2.md#meer-visualisaties-van-gogh)
    * [Boeken van voor 1900 door auteurs die in Nederland geboren zijn](opdracht2.md#boeken-van-voor-1900-door-auteurs-die-in-nederland-geboren-zijn)
-   * [Beroemde dennebomen in Europa](opdracht2.md#beroemde-dennebomen-in-europa)
+   * [Beroemde dennenbomen in Europa](opdracht2.md#beroemde-dennenbomen-in-europa)
 * 15 minuten: [Scholia gebruiken](scholia.md)
    * [Opdracht: Onderwerpen opzoeken in Scholia](scholia.md#opdracht-onderwerpen-opzoeken-in-scholia)
    * [Opdracht: Welke informatie vinden we via Scholia](scholia.md#opdracht-welke-informatie-vinden-we-via-scholia)
