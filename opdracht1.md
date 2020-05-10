@@ -13,8 +13,8 @@ van [azijnzuur](https://tools.wmflabs.org/scholia/topic/Q47512) zien:
 ![Fysisch-chemische eigenschappen van azijnzuur met literatuurbronnen](Screenshot_20180323_234622.png)
 
 In deze opdracht gaan we aan de slag met Open Data. Meer specifiek, we gaan aan de slag
-met de annotatie van Open Data met literatuur die het experiment of studie beschrijft die
-een feit ondersteund.
+met de annotatie van Open Data met literatuur die het experiment dat, of de studie beschrijft die,
+een feit ondersteunt.
 
 ## Bronnen in Wikidata
 
