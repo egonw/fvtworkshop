@@ -244,7 +244,7 @@ SELECT ?book ?bookLabel ?date ?author ?authorLabel ?birthPlace ?birthPlaceLabel 
 }
 ```
 
-## Beroemde dennebomen in Europa
+## Beroemde dennenbomen in Europa
 
 Een laatste zoekopdracht dan, over beroemde dennebomen (Q12024). Die zijn er niet zo heel veel, maar toch een paar:
 
