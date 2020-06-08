@@ -1,17 +1,17 @@
 # Scholia
 
-[Scholia](https://tools.wmflabs.org/scholia/) is een webtoepassing die data uit Wikidata gebruikt om wetenschappelijke
+[Scholia](https://scholia.toolforge.org/) is een webtoepassing die data uit Wikidata gebruikt om wetenschappelijke
 literatuur makkelijker toegankelijk te maken. Het is bedacht en ontwikkeld door een onderzoeker uit Denemarken,
-[Finn Nielsen](https://tools.wmflabs.org/scholia/author/Q20980928).
+[Finn Nielsen](https://scholia.toolforge.org/author/Q20980928).
 
 De toepassing laat je bladeren door artikelen, tijdschriften, onderzoekers, soorten, en onderwerpen. Een paar voorbeelden:
 
-* [Zika](https://tools.wmflabs.org/scholia/disease/Q8071861)
-* [Ben Feringa](https://tools.wmflabs.org/scholia/author/Q3259614)
-* [de Neanderthaler](https://tools.wmflabs.org/scholia/taxon/Q40171)
-* [Rembrandt van Rijn](https://tools.wmflabs.org/scholia/author/Q5598) (niet veel geschreven, maar wel veel werken)
-* [aspirine](https://tools.wmflabs.org/scholia/chemical/Q18216) (een medicijn)
-* [alkanen](https://tools.wmflabs.org/scholia/chemical-class/Q41581) (een groep van chemische verbindingen)
+* [Zika](https://scholia.toolforge.org/disease/Q8071861)
+* [Ben Feringa](https://scholia.toolforge.org/author/Q3259614)
+* [de Neanderthaler](https://scholia.toolforge.org/taxon/Q40171)
+* [Rembrandt van Rijn](https://scholia.toolforge.org/author/Q5598) (niet veel geschreven, maar wel veel werken)
+* [aspirine](https://scholia.toolforge.org/chemical/Q18216) (een medicijn)
+* [alkanen](https://scholia.toolforge.org/chemical-class/Q41581) (een groep van chemische verbindingen)
 
 ## Opdracht: Onderwerpen opzoeken in Scholia
 
